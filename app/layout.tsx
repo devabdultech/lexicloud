@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lexicloud",
-  description: "Your personal language explorer",
+  title: "lexicloud",
+  description: "your personal language explorer",
 };
 
 export default function RootLayout({
